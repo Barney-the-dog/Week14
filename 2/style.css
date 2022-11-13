@@ -1,0 +1,8 @@
+.info {
+    font-size: 25px;
+}
+
+.selected {
+    background-color: aqua;
+    font: bold
+}
